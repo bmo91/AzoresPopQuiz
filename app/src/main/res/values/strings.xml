@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Pop Quiz: Azores</string>
+
+    <string name="Q1">"1. Azores is:"</string>
+    <string name="Q11">"A ship"</string>
+    <string name="Q12">"A portuguese archipelago"</string>
+    <string name="Q13">"A brand"</string>
+
+    <string name="Q2">"2. How many islands does Azores have?"</string>
+    <string name="Q21">"4"</string>
+    <string name="Q22">"13"</string>
+    <string name="Q23">"9"</string>
+
+    <string name="Q3">"3. Once, for a small period of time, Portugal was only an azorean island. Which one?"</string>
+    <string name="Q31">"Terceira"</string>
+    <string name="Q32">"São Miguel"</string>
+    <string name="Q33">"Flores"</string>
+
+    <string name="Q4">"4. When was Azores discovered? "</string>
+    <string name="Q41">"16th Century"</string>
+    <string name="Q42">"1745"</string>
+    <string name="Q43">"8th Century"</string>
+
+    <string name="Q5">"How many tectonic plates cross in Azores?"</string>
+    <string name="Q51">"None"</string>
+    <string name="Q52">"3"</string>
+    <string name="Q53">"2"</string>
+
+
+    <string name="Submit">"Submit"</string>
+    <string name="reset">"Reset"</string>
+
+</resources>
